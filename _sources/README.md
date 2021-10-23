@@ -1,2 +1,0 @@
-# gatorman
-Gator program manual
