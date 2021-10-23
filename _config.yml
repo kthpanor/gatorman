@@ -3,7 +3,7 @@
 
 title                  : Gator program manual
 author                 : The Gator team
-logo                   : gator_logo.png
+logo                   : gator_logo_dark.png
 exclude_patterns       : [ README.md ]
 only_build_toc_files   : false
 
@@ -45,4 +45,4 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  favicon: gator_logo_mark.png
+  favicon: gator_icon_dark.png
