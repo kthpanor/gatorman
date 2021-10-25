@@ -17,7 +17,7 @@ Gator is interlocked with the [VeloxChem](https://veloxchem.org) program where t
 - Polarizabilities and dispersion coefficients
 - Complex polarization propagator (CPP)
 
-```{image} ../images/aligator.png
+```{image} ../images/aligator_new_logo.png
 :alt: cover
 :class: bg-primary mb-1
 :width: 600px
